@@ -1,0 +1,24 @@
+/*variable*/
+
+$color-pink : #f5989d;
+$color-darkblue: #192431;
+$color-purple: #615f7d; 
+$color-lightgrey: #e1e1e1;
+$color-green: #82ca9c;
+$color-lightpurple: #bd8cdf;
+$color-grey: #b8b8b8;
+$color-greyblue: #8297a7;
+
+$typo-classic: 'OpenSans Web';
+
+/*Grille*/
+
+@media (min-width: 1200px){
+    .container {
+        width: 1230px;
+    }
+}
+
+.col_md-4{
+    background-color: $color-pink;
+}

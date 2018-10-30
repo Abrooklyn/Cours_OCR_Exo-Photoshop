@@ -1,0 +1,12 @@
+/*variable*/
+/*Grille*/
+@media (min-width: 1200px) {
+  .container {
+    width: 1230px;
+  }
+}
+.col_md-4 {
+  background-color: #f5989d;
+}
+
+/*# sourceMappingURL=style.css.map */
